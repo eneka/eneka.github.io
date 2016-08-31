@@ -7,3 +7,10 @@ IndexIgnore *.html
 #cd /etc/apache2/mods-enabled
 #sudo ln -s /etc/apache2/mods-available/cgi.load 
 #sudo service apache2 reload
+#git add -A // To track all files
+
+#git commit -am "message" // To commit changes
+
+#git push origin master // Push your local changes to github
+
+#git add -A ;git commit -am "message";git push origin master 
